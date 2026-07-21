@@ -1,0 +1,28 @@
+[
+  {
+    "id": "277d9d87-11a7-42a3-920a-c0635aef2143",
+    "name": "sac ",
+    "price": 100,
+    "description": "sac louis vuiton ",
+    "size": "off",
+    "color": "black,white,",
+    "stock": 1000,
+    "image": "/uploads/cc49c798-6301-418f-a2b1-a0bc8396effd.jpg",
+    "active": true,
+    "createdAt": "2026-07-21T16:37:28.923Z",
+    "updatedAt": "2026-07-21T16:37:28.923Z"
+  },
+  {
+    "id": "ded8b313-20f1-461f-97fe-1eb8b8ed1719",
+    "name": "ZARA ",
+    "price": 170,
+    "description": "zara new edition",
+    "size": "42,37,40 ,43,39",
+    "color": "black,red,green",
+    "stock": 1000,
+    "image": "/uploads/55e6ada6-f661-4a8a-a4a2-bb9d661fcd85.jpg",
+    "active": true,
+    "createdAt": "2026-07-21T16:36:07.094Z",
+    "updatedAt": "2026-07-21T16:36:07.094Z"
+  }
+]
